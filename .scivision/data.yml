@@ -4,7 +4,7 @@ sources:
       origin: 
       driver: intake_xarray.image.ImageSource
       args:
-        urlpath: ["zip://*.tif::https://zenodo.org/record/7113477/files/Butterflies.zip"]
+        urlpath: ["zip://*.tif::https://zenodo.org/record/7113477/files/Butterflies.zip?download=1"]
         chunks: {}
         storage_options: {'anon': True}
         exif_tags: True
