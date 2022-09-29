@@ -4,4 +4,4 @@ sources:
       origin: 
       driver: intake_xarray.image.ImageSource
       args:
-        urlpath: ["zip://*.tif::https://zenodo.org/record/7113477/files/Butterflies.zip?download=1"] 
+        urlpath: ["zip://*.jpg::https://zenodo.org/record/7113477/files/Butterflies.zip?download=1"] 
